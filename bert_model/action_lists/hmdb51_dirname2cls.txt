@@ -1,0 +1,51 @@
+fencing,fencing
+kick,kick
+kick_ball,kick ball
+pick,pick
+pour,pour
+pushup,pushup
+run,run
+sit,sit
+smoke,smoke
+talk,talk
+brush_hair,brush hair
+catch,catch
+chew,chew
+clap,clap
+climb,climb
+climb_stairs,climb stairs
+dive,dive
+draw_sword,draw sword
+dribble,dribble
+drink,drink
+fall_floor,fall floor
+flic_flac,flicflac
+handstand,handstand
+hug,hug
+jump,jump
+kiss,kiss
+pullup,pullup
+punch,punch
+push,push
+ride_bike,ride bike
+ride_horse,ride horse
+shake_hands,shake hands
+shoot_bow,shoot bow
+situp,situp
+stand,stand
+sword,sword
+sword_exercise,sword exercise
+throw,throw
+turn,turn
+walk,walk
+wave,wave
+cartwheel,cartwheel
+eat,eat
+golf,golf
+hit,hit
+laugh,laugh
+shoot_ball,shoot ball
+shoot_gun,shoot gun
+smile,smile
+somersault,somersault
+swing_baseball,swing baseball

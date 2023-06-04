@@ -1,0 +1,100 @@
+blasting sand,blasting sand
+busking,busking
+cutting watermelon,cutting watermelon
+dancing ballet,dancing ballet
+dancing charleston,dancing charleston
+dancing macarena,dancing macarena
+diving cliff,diving cliff
+filling eyebrows,filling eyebrows
+folding paper,folding paper
+hula hooping,hula hooping
+hurling (sport),hurling sport
+ice skating,ice skating
+paragliding,paragliding
+playing drums,playing drums
+playing monopoly,playing monopoly
+playing trumpet,playing trumpet
+pushing car,pushing car
+riding elephant,riding elephant
+shearing sheep,shearing sheep
+side kick,side kick
+stretching arm,stretching arm
+tap dancing,tap dancing
+throwing axe,throwing axe
+unboxing,unboxing
+air drumming,air drumming
+arm wrestling,arm wrestling
+beatboxing,beatboxing
+biking through snow,biking through snow
+blowing glass,blowing glass
+blowing out candles,blowing out candles
+bowling,bowling
+breakdancing,breakdancing
+bungee jumping,bungee jumping
+catching or throwing baseball,catching or throwing baseball
+cheerleading,cheerleading
+cleaning floor,cleaning floor
+contact juggling,contact juggling
+cooking chicken,cooking chicken
+country line dancing,country line dancing
+curling hair,curling hair
+deadlifting,deadlifting
+doing nails,doing nails
+dribbling basketball,dribbling basketball
+driving tractor,driving tractor
+drop kicking,drop kicking
+dying hair,dying hair
+eating burger,eating burger
+feeding birds,feeding birds
+giving or receiving award,giving or receiving award
+hopscotch,hopscotch
+jetskiing,jetskiing
+jumping into pool,jumping into pool
+laughing,laughing
+making snowman,making snowman
+massaging back,massaging back
+mowing lawn,mowing lawn
+opening bottle,opening bottle
+playing accordion,playing accordion
+playing badminton,playing badminton
+playing basketball,playing basketball
+playing didgeridoo,playing didgeridoo
+playing ice hockey,playing ice hockey
+playing keyboard,playing keyboard
+playing ukulele,playing ukulele
+playing xylophone,playing xylophone
+presenting weather forecast,presenting weather forecast
+punching bag,punching bag
+pushing cart,pushing cart
+reading book,reading book
+riding unicycle,riding unicycle
+shaking head,shaking head
+sharpening pencil,sharpening pencil
+shaving head,shaving head
+shot put,shot put
+shuffling cards,shuffling cards
+slacklining,slacklining
+sled dog racing,sled dog racing
+snowboarding,snowboarding
+somersaulting,somersaulting
+squat,squat
+surfing crowd,surfing crowd
+trapezing,trapezing
+using computer,using computer
+washing dishes,washing dishes
+washing hands,washing hands
+water skiing,water skiing
+waxing legs,waxing legs
+weaving basket,weaving basket
+baking cookies,baking cookies
+crossing river,crossing river
+dunking basketball,dunking basketball
+feeding fish,feeding fish
+flying kite,flying kite
+high kick,high kick
+javelin throw,javelin throw
+playing trombone,playing trombone
+scuba diving,scuba diving
+skateboarding,skateboarding
+ski jumping,ski jumping
+trimming or shaving beard,trimming or shaving beard

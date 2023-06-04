@@ -1,0 +1,100 @@
+train0 bending sth until it breaks
+train1 closing sth
+train2 covering sth with sth
+train3 dropping sth behind sth
+train4 dropping sth in front of sth
+train5 dropping sth into sth
+train6 folding sth
+train7 holding sth
+train8 holding sth next to sth
+train9 letting sth roll along a flat surface
+train10 letting sth down a slanted surface
+train11 lifting a surface with sth on it but not enough for it to slide down
+train12 lifting sth with sth on it
+train13 moving away from sth with your camera
+train14 moving sth across a surface until it falls down
+train15 moving sth closer to each other
+train16 moving sth and sth so they collide with each other
+train17 moving sth down
+train18 moving sth up
+train19 plugging sth into sth
+train20 poking a hole into sth
+train21 poking sth so lightly that it doesn't or almost doesn't move
+train22 poking sth so that it falls over
+train23 pouring water into sth
+train24 pouring sth into sth until it overflows
+train25 pouring sth onto sth
+train26 pretending to be tearing sth
+train27 pretending to close sth without actually closing it
+train28 pretending to pick sth up
+train29 pretending to put sth next to sth
+train30 pretending to spread air onto sth
+train31 pretending to take sth out of sth
+train32 pulling sth onto sth
+train33 pulling two ends of sth so that it gets stretched
+train34 pulling two ends of sth so that it separates into two pieces
+train35 pushing sth from left to right
+train36 pushing sth off of sth
+train37 pushing sth so that it falls off the table  
+train39 putting several sth onto sth
+train38 pushing sth so that it slightly moves
+train40 putting sth and sth on the table
+train41 putting sth onto a slanted surface but it doesn't glide down
+train42 putting one sth onto sth
+train43 putting sth
+train44 showing a photo of sth to the camera
+train45 showing sth behind sth
+train46 sth colliding with sth and both are being deflected
+train47 spilling sth next to sth
+train48 spilling sth onto sth
+train49 spinning sth that quickly stops spinning
+train50 spreading sth on sth 
+train51 squeezing sth
+train52 stuffing sth into sth
+train53 taking sth from sth
+train54 tearing sth into two pieces
+train55 tilting sth with sth on it slightly so it doesn't fall down
+train56 tilting sth with sth on it until it falls off
+train57 tipping sth with sth over, so sth falls out
+train58 turning the camera downwards while filming sth
+train59 turning the camera left while filming sth
+train60 turning the camera upwards while filming sth
+train61 twisting(wringing) sth until water comes out
+train62 twisting sth
+train63 uncovering sth
+val0 holding sth over sth
+val1 lifting sth up completely, then letting it drop down
+val2 lifting up one end of sth, then letting it drop down
+val3 plugging sth into sth but pulling it right out as you remove your hand
+val4 pretending or failing to wipe sth off of sth
+val5 pretending to pour sth out of sth, but sth is empty
+val6 pushing sth so it spins
+val7 putting sth in front of sth
+val8 scooping sth up with sth
+val9 showing sth up to the camera
+val10 taking sth
+val11 throwing sth in the air and catching it
+test0 approaching sth with your camera
+test1 digging sth out of sth
+test2 dropping sth next to sth
+test3 dropping sth onto sth
+test4 failing to put sth into sth because the sth does not fit
+test5 lifting up one end of sth without letting it drop down
+test6 picking sth up
+test7 poking a stack of sth without the stack collapsing
+test8 pouring sth out of sth
+test9 pretending to open sth without actually opening it
+test10 pretending to put sth behind a sth
+test11 pretending to put sth into sth
+test12 pretending to put sth underneath sth
+test13 pretending to sprinkle air onto sth
+test14 pulling sth from left to right
+test15 pulling sth out of a sth
+test16 pushing sth from right to left
+test17 removing sth, revealing sth behind
+test18 showing sth next to sth
+test19 showing that sth is empty
+test20 spilling sth behind a sth
+test21 taking sth out of sth
+test22 throwing sth in the air and letting it fall
+test23 tipping sth over

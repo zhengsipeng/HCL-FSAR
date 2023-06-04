@@ -1,0 +1,251 @@
+Twisting (wringing) something wet until water comes out
+Poking a hole into something soft
+Pretending to take something from somewhere
+Putting something upright on the table
+Poking a hole into some substance
+Rolling something on a flat surface
+Poking a stack of something so the stack collapses
+Twisting something
+Something falling like a feather or paper
+Putting something on the edge of something so it is not supported and falls down
+Pushing something off of something
+Dropping something into something
+Letting something roll up a slanted surface, so it rolls back down
+Pushing something with something
+Opening something
+Putting something on a surface
+Taking something out of something
+Spinning something that quickly stops spinning
+Unfolding something
+Moving something towards the camera
+Putting something next to something
+Scooping something up with something
+Squeezing something
+Failing to put something into something because something does not fit
+Pouring something into something
+Poking a stack of something without the stack collapsing
+Pretending to poke something
+Lifting up one end of something without letting it drop down
+Moving part of something
+Moving something and something away from each other
+Removing something, revealing something behind
+Plugging something into something
+Tipping something with something in it over, so something in it falls out
+Stacking number of something
+Putting something onto a slanted surface but it doesn't glide down
+Moving something across a surface until it falls down
+Throwing something in the air and catching it
+Putting something that cannot actually stand upright upright on the table, so it falls on its side
+Holding something next to something
+Pretending to put something underneath something
+Poking something so lightly that it doesn't or almost doesn't move
+Approaching something with your camera
+Poking something so that it spins around
+Pushing something so that it falls off the table
+Spilling something next to something
+Pretending or trying and failing to twist something
+Pulling two ends of something so that it separates into two pieces
+Lifting up one end of something, then letting it drop down
+Tilting something with something on it slightly so it doesn't fall down
+Spreading something onto something
+Touching (without moving) part of something
+Turning the camera left while filming something
+Pushing something so that it slightly moves
+Uncovering something
+Moving something across a surface without it falling down
+Putting something behind something
+Attaching something to something
+Pulling something onto something
+Burying something in something
+Putting number of something onto something
+Letting something roll along a flat surface
+Bending something until it breaks
+Showing something behind something
+Pretending to open something without actually opening it
+Pretending to put something onto something
+Moving away from something with your camera
+Wiping something off of something
+Pretending to spread air onto something
+Holding something over something
+Pretending or failing to wipe something off of something
+Pretending to put something on a surface
+Moving something and something so they collide with each other
+Pretending to turn something upside down
+Showing something to the camera
+Dropping something onto something
+Pushing something so that it almost falls off but doesn't
+Piling something up
+Taking one of many similar things on the table
+Putting something in front of something
+Laying something on the table on its side, not upright
+Lifting a surface with something on it until it starts sliding down
+Poking something so it slightly moves
+Putting something into something
+Pulling something from right to left
+Showing that something is empty
+Spilling something behind something
+Letting something roll down a slanted surface
+Holding something behind something
+Lifting something up completely without letting it drop down
+Pouring something into something until it overflows
+Putting something, something and something on the table
+Trying to bend something unbendable so nothing happens
+Pouring something out of something
+Throwing something onto a surface
+Putting something onto something else that cannot support it so it falls down
+Pretending to pour something out of something, but something is empty
+Pulling something out of something
+Holding something in front of something
+Tilting something with something on it until it falls off
+Moving something away from the camera
+blasting sand
+busking
+cutting watermelon
+dancing ballet
+dancing charleston
+dancing macarena
+diving cliff
+filling eyebrows
+folding paper
+hula hooping
+hurling (sport)
+ice skating
+paragliding
+playing drums
+playing monopoly
+playing trumpet
+pushing car
+riding elephant
+shearing sheep
+side kick
+stretching arm
+tap dancing
+throwing axe
+unboxing
+air drumming
+arm wrestling
+beatboxing
+biking through snow
+blowing glass
+blowing out candles
+bowling
+breakdancing
+bungee jumping
+catching or throwing baseball
+cheerleading
+cleaning floor
+contact juggling
+cooking chicken
+country line dancing
+curling hair
+deadlifting
+doing nails
+dribbling basketball
+driving tractor
+drop kicking
+dying hair
+eating burger
+feeding birds
+giving or receiving award
+hopscotch
+jetskiing
+jumping into pool
+laughing
+making snowman
+massaging back
+mowing lawn
+opening bottle
+playing accordion
+playing badminton
+playing basketball
+playing didgeridoo
+playing ice hockey
+playing keyboard
+playing ukulele
+playing xylophone
+presenting weather forecast
+punching bag
+pushing cart
+reading book
+riding unicycle
+shaking head
+sharpening pencil
+shaving head
+shot put
+shuffling cards
+slacklining
+sled dog racing
+snowboarding
+somersaulting
+squat
+surfing crowd
+trapezing
+using computer
+washing dishes
+washing hands
+water skiing
+waxing legs
+weaving basket
+baking cookies
+crossing river
+dunking basketball
+feeding fish
+flying kite
+high kick
+javelin throw
+playing trombone
+scuba diving
+skateboarding
+ski jumping
+trimming or shaving beard
+fencing
+kick
+kick_ball
+pick
+pour
+pushup
+run
+sit
+smoke
+talk
+brush_hair
+catch
+chew
+clap
+climb
+climb_stairs
+dive
+draw_sword
+dribble
+drink
+fall_floor
+flic_flac
+handstand
+hug
+jump
+kiss
+pullup
+punch
+push
+ride_bike
+ride_horse
+shake_hands
+shoot_bow
+situp
+stand
+sword
+sword_exercise
+throw
+turn
+walk
+wave
+cartwheel
+eat
+golf
+hit
+laugh
+shoot_ball
+shoot_gun
+smile
+somersault
+swing_baseball

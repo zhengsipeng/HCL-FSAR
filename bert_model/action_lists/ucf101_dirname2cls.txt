@@ -1,0 +1,101 @@
+BlowingCandles,blowing candles
+CleanAndJerk,clean and jerk
+CliffDiving,cliff diving
+CuttingInKitchen,cutting in kitchen
+Diving,diving
+FloorGymnastics,floor gymnastics
+GolfSwing,golf swing
+HandstandWalking,handstand walking
+HorseRace,horse race
+IceDancing,ice dancing
+JumpRope,jump rope
+PommelHorse,pommel horse
+Punch,punch
+RockClimbingIndoor,rock climbing indoor
+SalsaSpin,salsa spin
+Skiing,skiing
+SkyDiving,sky diving
+StillRings,still rings
+Surfing,surfing
+TennisSwing,tennis swing
+VolleyballSpiking,volleyball spiking
+ApplyEyeMakeup,apply eye makeup
+Archery,archery
+BabyCrawling,baby crawling
+BalanceBeam,balance beam
+BandMarching,band marching
+BaseballPitch,baseball pitch
+Basketball,basketball
+BasketballDunk,basketball dunk
+BenchPress,bench press
+Biking,biking
+Billiards,billiards
+BlowDryHair,blow dry hair
+BodyWeightSquats,body weight squats
+Bowling,bowling
+BoxingPunchingBag,boxing punching bag
+BoxingSpeedBag,boxing speed bag
+BreastStroke,breast stroke
+BrushingTeeth,brushing teeth
+CricketBowling,cricket bowling
+Drumming,drumming
+Fencing,fencing
+FieldHockeyPenalty,field hockey penalty
+FrisbeeCatch,catch frisbee
+FrontCrawl,front crawl
+Haircut,haircut
+Hammering,hammering
+HeadMassage,head massage
+HulaHoop,hula hoop
+JavelinThrow,throw javelin
+JugglingBalls,juggling balls
+JumpingJack,jumping jack
+Kayaking,kayaking
+Knitting,knitting
+LongJump,long jump
+Lunges,lunges
+MilitaryParade,military parade
+Mixing,mixing
+MoppingFloor,mopping floor
+Nunchucks,nunchucks
+ParallelBars,parallel bars
+PizzaTossing,pizza tossing
+PlayingCello,playing cello
+PlayingDhol,playing dhol
+PlayingFlute,playing flute
+PlayingPiano,playing piano
+PlayingSitar,playing sitar
+PlayingTabla,playing tabla
+PlayingViolin,playing violin
+PoleVault,pole vault
+PullUps,pullups
+PushUps,pushups
+Rafting,rafting
+RopeClimbing,rope climbing
+Rowing,rowing
+ShavingBeard,shaving beard
+Skijet,ski jet
+SoccerJuggling,soccer juggling
+SoccerPenalty,soccer penalty
+SumoWrestling,sumo wrestling
+Swing,swing
+TableTennisShot,table tennis shot
+TaiChi,Tai Chi
+ThrowDiscus,throw discus
+TrampolineJumping,trampoline jumping
+Typing,typing
+UnevenBars,uneven bars
+WalkingWithDog,walking with dog
+WallPushups,wall pushups
+WritingOnBoard,writing on board
+YoYo,yoyo
+ApplyLipstick,apply lip stick
+CricketShot,cricket shot
+HammerThrow,throw hammer
+HandstandPushups,handstand pushups
+HighJump,high jump
+HorseRiding,riding horse
+PlayingDaf,playing daf
+PlayingGuitar,playing guitar
+Shotput,shotput
+SkateBoarding,skate boarding
